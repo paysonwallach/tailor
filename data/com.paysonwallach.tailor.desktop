@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Gtk Theme Variant Switcher
+GenericName=Display adjustment
+Comment=A small service which forces certain windows to use a specific Gtk theme variant. E.g. force dark window borders.
+Exec=com.paysonwallach.gtk-theme-variant-switcher
+NoDisplay=true
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
