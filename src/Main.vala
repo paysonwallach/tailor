@@ -50,7 +50,6 @@ private Gee.HashMap<string, string> get_alterations () {
 }
 
 private void set_theme (string variant, ulong window_id) {
-    stdout.printf(variant);
     string[] args = {
         "xprop",
         "-id",
