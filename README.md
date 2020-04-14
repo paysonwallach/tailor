@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Tailor</h1>
   <br>
-  <p>A background utility for setting Gtk theme variants per window class.</p>
+  <p>Set Gtk theme variants per window class.</p>
   <a href=https://github.com/paysonwallach/tailor/release/latest>
     <img src=https://img.shields.io/github/v/release/paysonwallach/tailor?style=flat-square>
   </a>
@@ -15,7 +15,7 @@
   <br>
 </div>
 
-[Tailor](https://github.com/paysonwallach/tailor) is a background utility that lets you set the Gtk theme variant of windows matching a given Xorg `WM_CLASS`.
+[Tailor](https://github.com/paysonwallach/tailor) is a small service that lets you set Gtk theme variants on windows by their Xorg `WM_CLASS` properties.
 
 ## Installation
 
