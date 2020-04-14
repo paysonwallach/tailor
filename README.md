@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Tailor</h1>
   <br>
-  <p>Set Gtk theme variants per window class.</p>
+  <p>Set Gtk theme variants by window class.</p>
   <a href=https://github.com/paysonwallach/tailor/release/latest>
     <img src=https://img.shields.io/github/v/release/paysonwallach/tailor?style=flat-square>
   </a>
